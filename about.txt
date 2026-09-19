@@ -1,0 +1,2 @@
+This is a practice repository for learning Git.
+Currently testing branch workflows!
