@@ -1,3 +1,4 @@
 # github-practice
-hi hello 
+hello world
 how are you
+learning git step by step
