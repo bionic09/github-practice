@@ -1,3 +1,3 @@
-This is a practice repository for learning Git.
+Branch Version: This file was edited as a conflict
 Currently testing branch workflows!
 Directly from github
