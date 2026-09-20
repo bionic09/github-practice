@@ -1,4 +1,7 @@
+Resolved conflict version: Combined changes!
 This is a practice repository for learning Git.
 This file was edited directly on the main branch 
+=======
+Branch Version: This file was edited as a conflict
 Currently testing branch workflows!
 Directly from github
